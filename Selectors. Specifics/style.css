@@ -1,0 +1,33 @@
+h1 {
+    color: antiquewhite;
+}
+span {
+    color: aqua;
+}
+div h3 {
+    color: rgb(160, 91, 7);
+}
+#KeyPar {
+    color: rgb(4, 206, 92);
+}
+.header5.header5color {
+    color: yellow;
+}
+p {
+    color: blue;
+}
+.h7 {
+    color: blueviolet;
+}
+.hi {
+    color: violet;
+}
+#hello {
+    color: yellowgreen;
+}
+.header9.header9color {
+    color: rgb(255, 98, 0);
+}
+.last {
+    color: rgb(162, 0, 154);
+}

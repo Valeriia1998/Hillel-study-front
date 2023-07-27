@@ -1,0 +1,115 @@
+
+@font-face {
+    font-family: Mark pro;
+    src: url(./Mark\ Pro\ Bold.ttf);
+}
+@font-face {
+    font-family: Mark Pro Medium;
+    src: url(./Mark\ Pro\ Medium.ttf);
+}
+.header.subhead {
+    margin-left: 68px;
+    margin-right: 68px;
+    padding-right: 40px;
+}
+
+.h1{
+    left: 120px;
+    font-family: Mark pro;
+    font-size: 48px;
+    color: #021d49;
+    margin-bottom: 10px;
+    -webkit-font-smoothing: antialiased;
+}
+.p {
+    left: 120px;
+    top: 70px;
+    font-family: Mark Pro Medium;
+    font-size: 16px;
+    color: #021d49;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    -webkit-font-smoothing: antialiased;
+}
+.product.card1 {
+background: #ffffff;
+box-shadow: 0 4px 21px #0000001a;
+border-radius: 15px;
+margin: 0 11px 38px!important;
+padding: 0px;
+display: flex;
+flex-direction: column;
+align-items: center;
+width: auto;
+width: 286px;
+height: 520px;
+}
+img {
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 13px;
+}
+.container {
+ margin-left: 100px;
+ margin-right: 100px;
+ display: flex;
+ flex-direction:row;
+}
+h6 {
+    font-family: Mark Pro Medium;
+    font-size: 20px;
+    color: #021d49;
+    margin-top: 0px;
+    -webkit-font-smoothing: antialiased;
+    margin-right: 75px;
+    margin-bottom: 0px;
+}
+.reviews {
+   font-family: Mark Pro Medium;
+   font-size: 13px;
+   color: #FF4700;
+   margin-right: 160px;
+   margin-top: 7px;
+   margin-bottom: 7px;
+}
+a {
+    color: #FF4700;
+}
+.copy {
+    width: 244px;
+    margin: 0;
+    font-family: Mark Pro Medium;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    line-height: 18px;
+    color: #021d49;
+}
+.price {
+    font-family: Mark Pro Medium;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #021d49;
+}
+button {
+background: #ff4700!important;
+border: 1px solid #021d49!important;
+box-shadow: 3px 2px 2px #021d49!important;
+border-radius: 10px!important;
+color: #fff!important;
+text-transform: lowercase;
+font-weight: 500;
+line-height: 20px;
+padding: 15px;
+letter-spacing: 1px;
+width: 244px;
+font-family: Mark Pro Medium;
+font-size: 16px;
+}
+.bundle {
+padding-right: 100px;
+}
+.Macro.Shakes {
+padding-right: 33px;
+}

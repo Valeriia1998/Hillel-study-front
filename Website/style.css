@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Roboto;
+    src: url('./Roboto.ttf');
+}
+
+
+.header {
+    height: 700px;
+    background-color: #EEEFF1;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+ul {
+    margin: 0px;
+    list-style: none;
+}
+.navigation {
+    font-family: Roboto;
+    font-size: 16px;
+    padding-top: 79px;
+}
+.navigation ul li {
+    display: inline-block;
+    margin-right: 42px;
+}
+.navigation ul li a {
+    text-decoration: none;
+}
+.HOMEPAGE a{
+    color: #34547A;
+    font-weight: 700; /* в фигме фонт вейт 500, но при коде это выглядит иначе */
+}
+a{
+    color: rgb(0, 0, 0);
+}

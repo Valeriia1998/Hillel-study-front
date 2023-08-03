@@ -1,0 +1,147 @@
+.container {
+    width: 1110px;
+    height: 800px;
+    background: #C4C4C4;
+    margin: 0 auto;
+    position: relative;
+}
+.box-container1 {
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-right: 0;
+}
+.box1 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: left;
+}
+.text1 {
+    width: 200px;
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 60px;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    float: right;
+    margin: 0;
+}
+.box-container2 {
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+.box1a {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: left;
+}
+.box2b {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    margin: 0;
+}
+.text2 {
+    width: 100px;
+        height: 37.5px;
+        color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 31px;
+}
+.box3c {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    margin: 0;
+
+}
+.box4d {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    margin: 0;
+}
+.box5f {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    margin: 0;
+}
+.smallboxes {
+    text-align: right;
+}
+
+.smallboxes > div {
+    display: inline-block; 
+    vertical-align: middle; 
+    margin-left: 10px;
+}
+
+.box-container3 {
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+    position: absolute;
+    top: 550px;
+    left: 50px;
+}
+.cont1 {
+    width: 415px;
+    float: left;
+}
+.box11 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: left;
+}
+.box22 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: right;
+}
+.cont2 {
+    width: 415px;
+    float: right;
+}
+.box33 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: left;
+}
+.box44 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    margin: 0;
+    float: right;
+}

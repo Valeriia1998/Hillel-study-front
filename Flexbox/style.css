@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+.container {
+    width: 1290px;
+    margin: 0 auto;
+}
+.logo {
+    width: 130px;
+    height: 28px;
+}
+.navigation_container {
+    height: 95px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #CCCCCC;
+}
+.navigation_list {
+    display: flex;
+    padding-left: 51px;
+    gap: 57px;
+    font-family: Graphik LCG;
+    font-size: 15px;
+    font-weight: 400;
+}
+.container_button {
+    margin-left: auto;
+    gap: 10px;
+}
+.login {
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    background-color: white;
+    font-family: Graphik LCG;
+    font-size: 16px;
+    font-weight: 600px;
+}
+.Tryit {
+    width: 120px;
+    height: 45px;
+    background-color: #FF6336;
+    font-family: Graphik LCG;
+    font-size: 16px;
+    font-weight: 600px;
+    color: white;
+}
+.mainpageblock {
+    margin-top: 129px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+.headermp {
+    font-family: Graphik LCG;
+    font-size: 65px;
+    width: 552px;
+    line-height: 70px;
+    color: black;
+    font-weight: 600px;
+    margin-right: 0px;
+}
+.copymp {
+    width: 471px;
+    font-family: Graphik LCG;
+    font-size: 25px;
+    color: black;
+    line-height: 35px;
+    font-weight: normal;
+    padding-top: 51px;
+    margin-right: 0px;
+}
+.container_buttonmp {
+    padding-top: 50px;
+    height: 44px;
+}
+.bookdemo {
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    background-color: white;
+    font-family: Graphik LCG;
+    font-size: 16px;
+    font-weight: 600px;
+}
+.undercopy {
+    font-family: Graphik LCG;
+    color: black;
+    font-size: 15px;
+    font-weight: normal;
+    padding-top: 25px;
+}
+.hero {
+    
+}
+.left-content {
+    width: 552px;
+}
+.maincontent {
+    height: 957px;
+}
+/* секция 2 с логотипами */
+.sectionlogo {
+    height: 455px;
+    background-color: #FF9C7D;
+}
+.headerlogo {
+    width: 720px;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 600px;
+    font-family: Graphik LCG;
+    margin: 0 auto;
+    padding-top: 108px;
+    line-height: 60px;
+}
+.logogroup {
+    margin: 0 auto;
+    padding-top: 70px;
+    display: flex;
+    align-items: center;
+}
+/* 3я секция с карточками */
